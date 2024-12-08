@@ -1,4 +1,4 @@
-i# Lean Inception Project
+# Saúde+
 
 Este documento descreve o trabalho realizado para a construção de um Web App focado em facilitar a busca por especialistas da área de saúde e o agendamento de consultas, tanto presenciais quanto por teleatendimento. O projeto foi estruturado com base em práticas ágeis, incluindo Lean Inception, organização do backlog no Jira para realização do desenvolvimento utilizando SCRUM e desenvolvimento de wireframes e/ou protótipos da interface no Figma.
 
